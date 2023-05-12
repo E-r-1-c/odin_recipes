@@ -1,1 +1,1 @@
-Im supposed to write a desciption of the project but they havent gave me any details. I do know it something about recipes and to test my knowledge on what I have learned. Im confident in my abilites, this should be a piece of cake
+Im supposed to write a desciption of the project but they havent gave me any details. I do know it's something about recipes and to test my knowledge on what I have learned. Im confident in my abilites, this should be a piece of cake
