@@ -1,0 +1,44 @@
+img{
+    height: 400px;
+    width: 600px;
+    border: 5px solid goldenrod;
+}
+
+img:hover{
+    opacity: 0.95;
+    border-color: white;
+}
+
+.one{
+    position: relative;
+    right: 30px;
+
+}
+.two{
+    position: relative;
+    left: 600px;
+    bottom: 415px;
+
+}
+.three{
+    position: relative;
+    left: 1230px;
+    bottom: 830px;
+
+}
+
+h1{
+ color: white;
+ background-color: gray;
+ font-size: 80px;
+ text-shadow: -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(0, 0, 0), -1px 1px 0 rgb(0, 0, 0), 1px 1px 0 rgb(0, 0, 0);
+ text-align: center;
+ padding: 5px;
+ background-clip: content-box;
+ box-shadow: inset 0 0 0 5px rgb(0, 0, 0);
+}
+
+html{
+   background: url(recipes/img/food.jpg) no-repeat center center fixed;
+   background-size: cover;
+}

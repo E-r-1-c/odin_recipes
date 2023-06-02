@@ -1,0 +1,22 @@
+html{
+    background-color: red;
+    background: url(../img/food.jpg) no-repeat center center fixed;
+    background-size: cover;
+ }
+
+h1, h2, h3, p, li{
+   color: white;
+   font-size: 30px;
+   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+h1{
+   text-align: center;
+   font-size: 80px;
+   text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+   background-color: grey;
+}
+
+img{
+    border: 5px solid black;
+ }
